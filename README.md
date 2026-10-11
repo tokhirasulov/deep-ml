@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**5** solved · 4 problems · 1 labs · 0 math
+**6** solved · 5 problems · 1 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -15,6 +15,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Derivatives of Activation Functions](https://www.deep-ml.com/problems/217) | easy | 2026-10-09 | [solution](problems/0217-derivatives-of-activation-functions) |
 | [Implement the Softplus Activation Function](https://www.deep-ml.com/problems/99) | easy | 2026-10-09 | [solution](problems/0099-implement-the-softplus-activation-function) |
 | [Implement the Tanh Activation Function](https://www.deep-ml.com/problems/264) | easy | 2026-10-08 | [solution](problems/0264-implement-the-tanh-activation-function) |
+| [Single Neuron](https://www.deep-ml.com/problems/24) | easy | 2026-10-11 | [solution](problems/0024-single-neuron) |
 | [Implementing Basic Autograd Operations](https://www.deep-ml.com/problems/26) | medium | 2026-10-09 | [solution](problems/0026-implementing-basic-autograd-operations) |
 
 ## Labs
