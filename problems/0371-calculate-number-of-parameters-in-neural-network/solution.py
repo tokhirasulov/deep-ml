@@ -9,7 +9,7 @@ def calculate_parameters(layers: list[dict]) -> int:
 		if(lyType == 'conv2d'):
 			inOutChannels = layer['in_channels'] * layer['out_channels']
 			total += inOutChannels * (layer['kernel_size']**2) 
-			if 'bias' in layer and layer['bias']:
+			if 'bias' not in layer or layer['bias']:
 				total += layer['out_channels']
 	return total
 
