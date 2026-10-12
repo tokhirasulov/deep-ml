@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T06:59:58.453Z",
+  "generated_at": "2026-10-12T12:57:56.208Z",
   "items": {
     "problem:264": {
       "kind": "problem",
@@ -89,6 +89,19 @@
       "path": "problems/0371-calculate-number-of-parameters-in-neural-network",
       "first_solved_at": "2026-10-11T18:07:14.765Z",
       "last_pushed_at": "2026-10-12T06:59:57.779Z",
+      "language": "python",
+      "lines": 15
+    },
+    "problem:15": {
+      "kind": "problem",
+      "id": "15",
+      "title": "Linear Regression Using Gradient Descent",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/15",
+      "path": "problems/0015-linear-regression-using-gradient-descent",
+      "first_solved_at": "2026-10-12T12:57:55.358Z",
+      "last_pushed_at": "2026-10-12T12:57:55.358Z",
       "language": "python",
       "lines": 15
     }
