@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**9** solved · 8 problems · 1 labs · 0 math
+**10** solved · 9 problems · 1 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -20,6 +20,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Linear Regression Using Gradient Descent](https://www.deep-ml.com/problems/15) | easy | 2026-10-12 | [solution](problems/0015-linear-regression-using-gradient-descent) |
 | [Single Neuron](https://www.deep-ml.com/problems/24) | easy | 2026-10-11 | [solution](problems/0024-single-neuron) |
 | [Implementing Basic Autograd Operations](https://www.deep-ml.com/problems/26) | medium | 2026-10-09 | [solution](problems/0026-implementing-basic-autograd-operations) |
+| [Single Neuron with Backpropagation](https://www.deep-ml.com/problems/25) | medium | 2026-10-12 | [solution](problems/0025-single-neuron-with-backpropagation) |
 
 ## Labs
 
