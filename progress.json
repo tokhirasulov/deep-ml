@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T19:11:03.470Z",
+  "generated_at": "2026-10-15T11:05:24.274Z",
   "items": {
     "problem:264": {
       "kind": "problem",
@@ -130,6 +130,19 @@
       "last_pushed_at": "2026-10-12T19:11:02.225Z",
       "language": "python",
       "lines": 32
+    },
+    "lab:6": {
+      "kind": "lab",
+      "id": "6",
+      "title": "MNIST: Build Neural Network from Scratch (NumPy Only)",
+      "difficulty": "hard",
+      "category": "Neural Network Fundamentals",
+      "url": "https://www.deep-ml.com/labs/6",
+      "path": "labs/0006-mnist-build-neural-network-from-scratch-numpy-only",
+      "first_solved_at": "2026-10-15T11:05:22.609Z",
+      "last_pushed_at": "2026-10-15T11:05:22.609Z",
+      "language": "python",
+      "lines": 62
     }
   }
 }
